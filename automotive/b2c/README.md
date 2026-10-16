@@ -1,0 +1,49 @@
+# Automotive · B2C
+
+[Automotive](../README.md) · [All industries](../../README.md)
+
+Copy `specs/` into your project's `openspec/specs/`.
+
+| # | Capability | Priority |
+|---|---|---|
+| 1 | [Authentication and identity](specs/authentication-and-identity/spec.md) | P1 |
+| 2 | [Cart management](specs/cart-management/spec.md) | P1 |
+| 3 | [Checkout](specs/checkout/spec.md) | P1 |
+| 4 | [Discovery and browse](specs/discovery-and-browse/spec.md) | P1 |
+| 5 | [Account and self-service](specs/account-and-self-service/spec.md) | P2 |
+| 6 | [Post-purchase order management](specs/post-purchase-order-management/spec.md) | P2 |
+| 7 | [Switching region or language](specs/switching-region-or-language/spec.md) | P2 |
+| 8 | [Subscriptions and recurring orders](specs/subscriptions-and-recurring-orders/spec.md) | P3 |
+| 9 | [Cart with engine-calculated totals after every change](specs/cart-page/spec.md) | P1 |
+| 10 | [Checkout re-reading totals after each shipping change](specs/checkout-page/spec.md) | P1 |
+| 11 | [Landing page with session-resolved buyer context](specs/home-landing-page/spec.md) | P1 |
+| 12 | [Order confirmation stating reference and true order state](specs/order-confirmation-page/spec.md) | P1 |
+| 13 | [Product detail page showing the buyer's effective price](specs/product-detail-page/spec.md) | P1 |
+| 14 | [Category listing with request-derived filter and page state](specs/product-listing-page/spec.md) | P1 |
+| 15 | [Search results with exact part-number resolution](specs/search-results-page/spec.md) | P2 |
+| 16 | [Account request held until the seller activates it](specs/account-registration-request/spec.md) | P1 |
+| 17 | [Buyer sign-in with password or federated identity](specs/account-sign-in/spec.md) | P1 |
+| 18 | [Address book with a default delivery location](specs/address-book/spec.md) | P1 |
+| 19 | [Order history scoped to what the buyer may see](specs/order-history/spec.md) | P1 |
+| 20 | [Session-scoped account dashboard with explicit empty states](specs/account-dashboard/spec.md) | P2 |
+| 21 | [Saved payment methods and account payment terms](specs/payment-methods/spec.md) | P2 |
+| 22 | [Saved and requisition lists with bulk add to cart](specs/saved-lists/spec.md) | P2 |
+| 23 | [Contact page that confirms only enquiries support has accepted](specs/contact-us/spec.md) | P1 |
+| 24 | [Policy pages stating the effective date of the text shown](specs/policy-pages/spec.md) | P1 |
+| 25 | [About page assembled entirely from published CMS content](specs/about-us/spec.md) | P2 |
+| 26 | [FAQ answers readable and indexable without being expanded](specs/faq/spec.md) | P2 |
+| 27 | [Articles addressable and indexable independently of the listing](specs/blog-resources/spec.md) | P3 |
+| 28 | [Error pages that name the failure and route the buyer back](specs/error-pages/spec.md) | P1 |
+| 29 | [Password reset gated on a valid, unexpired reset token](specs/password-reset/spec.md) | P1 |
+| 30 | [Email verification by token with a recoverable resend path](specs/email-verification/spec.md) | P2 |
+| 31 | [A catalog composed down a chain, each level adding and excluding](specs/hierarchical-catalog-inheritance/spec.md) | P1 |
+| 32 | [Every contribution to the price, itemized and in the order applied](specs/layered-price-and-discount-stack/spec.md) | P1 |
+| 33 | [Stock where every unit is unique and the quantity is always one](specs/one-of-one-unit-inventory/spec.md) | P1 |
+| 34 | [Configurations decided by rules, not enumerated as variants](specs/rule-constrained-configuration/spec.md) | P1 |
+| 35 | [No catalog until the vehicle it is for has been established](specs/unit-first-catalog-entry/spec.md) | P1 |
+| 36 | [The journey leaves for a credit decision and comes back](specs/handover-to-external-underwriting/spec.md) | P1 |
+| 37 | [Goods that cannot be supplied without work someone has to do](specs/line-bound-installation-service/spec.md) | P1 |
+| 38 | [A refundable deposit that holds one unit off the market](specs/reservation-deposit-on-a-unit/spec.md) | P1 |
+| 39 | [Statutory duties on a vehicle, and the buyers relieved of them](specs/registration-duty-and-buyer-relief/spec.md) | P2 |
+| 40 | [Entitlements that belong to the vehicle, not to whoever bought them](specs/entitlement-bound-to-the-unit/spec.md) | P1 |
+| 41 | [Paying to switch on what the vehicle already physically has](specs/latent-capability-activation/spec.md) | P1 |

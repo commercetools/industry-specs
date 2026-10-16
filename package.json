@@ -1,0 +1,26 @@
+{
+  "name": "@commercetools-labs/industry-specs",
+  "version": "0.2.0",
+  "description": "Industry specs for commercetools, as OpenSpec capability specs.",
+  "license": "MIT",
+  "author": "commercetools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/commercetools-labs/industry-specs.git"
+  },
+  "files": [
+    "generic",
+    "automotive",
+    "grocery",
+    "healthcare",
+    "manufacturing",
+    "retail",
+    "telecom",
+    "README.md",
+    "LICENSE",
+    "SUPPORT.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
