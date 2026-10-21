@@ -52,13 +52,13 @@ is the general storefront every industry builds on.
 
 | Industry | Business models | Capabilities |
 |---|---|---|
-| [Generic](generic/README.md) | B2C, B2B, B2B2C, B2B2B | up to 48 |
-| [Automotive](automotive/README.md) | B2C, B2B, B2B2C | up to 58 |
-| [Food & Grocery](grocery/README.md) | B2C, B2B, B2B2C | up to 50 |
-| [Healthcare & Life Sciences](healthcare/README.md) | B2C, B2B | up to 58 |
-| [Industrials & Manufacturing](manufacturing/README.md) | B2C, B2B, B2B2B | up to 68 |
-| [Retail & CPG](retail/README.md) | B2C, B2B, B2B2C | up to 59 |
-| [Telecom](telecom/README.md) | B2C, B2B | up to 57 |
+| [Generic](generic/README.md) | B2C, B2B, B2B2C, B2B2B | up to 50 |
+| [Automotive](automotive/README.md) | B2C, B2B, B2B2C | up to 60 |
+| [Food & Grocery](grocery/README.md) | B2C, B2B, B2B2C | up to 52 |
+| [Healthcare & Life Sciences](healthcare/README.md) | B2C, B2B | up to 60 |
+| [Industrials & Manufacturing](manufacturing/README.md) | B2C, B2B, B2B2B | up to 70 |
+| [Retail & CPG](retail/README.md) | B2C, B2B, B2B2C | up to 61 |
+| [Telecom](telecom/README.md) | B2C, B2B | up to 59 |
 
 ## Or copy a spec by hand
 

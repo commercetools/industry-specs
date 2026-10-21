@@ -1,6 +1,6 @@
 {
   "name": "@commercetools-labs/industry-specs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Industry specs for commercetools, as OpenSpec capability specs.",
   "license": "MIT",
   "author": "commercetools",

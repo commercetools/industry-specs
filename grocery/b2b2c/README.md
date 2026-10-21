@@ -20,72 +20,74 @@ Copy `specs/` into your project's `openspec/specs/`. Capabilities sit under a fo
 | 12 | [Managing team members and access](specs/seller-portal/team-members-and-access/spec.md) | The seller portal | P1 |
 | 13 | [Account and self-service](specs/seller-portal/account-and-self-service/spec.md) | The seller portal | P2 |
 | 14 | [Account-level order history](specs/seller-portal/account-level-order-history/spec.md) | The seller portal | P2 |
-| 15 | [Post-purchase order management](specs/seller-portal/post-purchase-order-management/spec.md) | The seller portal | P2 |
-| 16 | [Switching region or language](specs/seller-portal/switching-region-or-language/spec.md) | The seller portal | P2 |
-| 17 | [Subscriptions and recurring orders](specs/seller-portal/subscriptions-and-recurring-orders/spec.md) | The seller portal | P3 |
-| 18 | [Cart with engine-calculated totals after every change](specs/seller-portal/cart-page/spec.md) | The seller portal | P1 |
-| 19 | [Checkout re-reading totals after each shipping change](specs/seller-portal/checkout-page/spec.md) | The seller portal | P1 |
-| 20 | [Landing page with session-resolved buyer context](specs/seller-portal/home-landing-page/spec.md) | The seller portal | P1 |
-| 21 | [Order confirmation stating reference and true order state](specs/seller-portal/order-confirmation-page/spec.md) | The seller portal | P1 |
-| 22 | [Product detail page showing the buyer's effective price](specs/seller-portal/product-detail-page/spec.md) | The seller portal | P1 |
-| 23 | [Category listing with request-derived filter and page state](specs/seller-portal/product-listing-page/spec.md) | The seller portal | P1 |
-| 24 | [Search results with exact part-number resolution](specs/seller-portal/search-results-page/spec.md) | The seller portal | P2 |
-| 25 | [Account request held until the seller activates it](specs/seller-portal/account-registration-request/spec.md) | The seller portal | P1 |
-| 26 | [Buyer sign-in with password or federated identity](specs/seller-portal/account-sign-in/spec.md) | The seller portal | P1 |
-| 27 | [Address book with a default delivery location](specs/seller-portal/address-book/spec.md) | The seller portal | P1 |
-| 28 | [Order history scoped to what the buyer may see](specs/seller-portal/order-history/spec.md) | The seller portal | P1 |
-| 29 | [Company user and role administration](specs/seller-portal/user-and-role-management/spec.md) | The seller portal | P1 |
-| 30 | [Session-scoped account dashboard with explicit empty states](specs/seller-portal/account-dashboard/spec.md) | The seller portal | P2 |
-| 31 | [Order approval rules and the approver queue](specs/seller-portal/approval-workflows/spec.md) | The seller portal | P2 |
-| 32 | [Saved payment methods and account payment terms](specs/seller-portal/payment-methods/spec.md) | The seller portal | P2 |
-| 33 | [Quote acceptance at the negotiated price](specs/seller-portal/quote-negotiation/spec.md) | The seller portal | P2 |
-| 34 | [Saved and requisition lists with bulk add to cart](specs/seller-portal/saved-lists/spec.md) | The seller portal | P2 |
-| 35 | [Invoice history and outstanding balance on account](specs/seller-portal/invoice-and-billing-history/spec.md) | The seller portal | P1 |
-| 36 | [Quick order and bulk upload with per-line results](specs/seller-portal/quick-order-entry/spec.md) | The seller portal | P1 |
-| 37 | [Budget monitoring against committed order spend](specs/seller-portal/budget-and-spending-limits/spec.md) | The seller portal | P2 |
-| 38 | [Company profile with permission-gated editing](specs/seller-portal/company-profile/spec.md) | The seller portal | P2 |
-| 39 | [Contract pricing shown as the cart will price it](specs/seller-portal/contract-pricing/spec.md) | The seller portal | P2 |
-| 40 | [Cost center codes assignable to a purchase](specs/seller-portal/cost-center-management/spec.md) | The seller portal | P3 |
-| 41 | [Contact page that confirms only enquiries support has accepted](specs/seller-portal/contact-us/spec.md) | The seller portal | P1 |
-| 42 | [Policy pages stating the effective date of the text shown](specs/seller-portal/policy-pages/spec.md) | The seller portal | P1 |
-| 43 | [About page assembled entirely from published CMS content](specs/seller-portal/about-us/spec.md) | The seller portal | P2 |
-| 44 | [FAQ answers readable and indexable without being expanded](specs/seller-portal/faq/spec.md) | The seller portal | P2 |
-| 45 | [Articles addressable and indexable independently of the listing](specs/seller-portal/blog-resources/spec.md) | The seller portal | P3 |
-| 46 | [Error pages that name the failure and route the buyer back](specs/seller-portal/error-pages/spec.md) | The seller portal | P1 |
-| 47 | [Password reset gated on a valid, unexpired reset token](specs/seller-portal/password-reset/spec.md) | The seller portal | P1 |
-| 48 | [Email verification by token with a recoverable resend path](specs/seller-portal/email-verification/spec.md) | The seller portal | P2 |
-| 49 | [Prices for goods sold by weight or measure](specs/seller-portal/weight-based-pricing/spec.md) | The seller portal | P1 |
-| 50 | [Delivery slot selection with finite capacity](specs/seller-portal/delivery-slot-booking/spec.md) | The seller portal | P1 |
-| 51 | [Authentication and identity](specs/consumer-storefront/authentication-and-identity/spec.md) | The shopper storefront | P1 |
-| 52 | [Cart management](specs/consumer-storefront/cart-management/spec.md) | The shopper storefront | P1 |
-| 53 | [Checkout](specs/consumer-storefront/checkout/spec.md) | The shopper storefront | P1 |
-| 54 | [Discovery and browse](specs/consumer-storefront/discovery-and-browse/spec.md) | The shopper storefront | P1 |
-| 55 | [Account and self-service](specs/consumer-storefront/account-and-self-service/spec.md) | The shopper storefront | P2 |
-| 56 | [Post-purchase order management](specs/consumer-storefront/post-purchase-order-management/spec.md) | The shopper storefront | P2 |
-| 57 | [Switching region or language](specs/consumer-storefront/switching-region-or-language/spec.md) | The shopper storefront | P2 |
-| 58 | [Subscriptions and recurring orders](specs/consumer-storefront/subscriptions-and-recurring-orders/spec.md) | The shopper storefront | P3 |
-| 59 | [Cart with engine-calculated totals after every change](specs/consumer-storefront/cart-page/spec.md) | The shopper storefront | P1 |
-| 60 | [Checkout re-reading totals after each shipping change](specs/consumer-storefront/checkout-page/spec.md) | The shopper storefront | P1 |
-| 61 | [Landing page with session-resolved buyer context](specs/consumer-storefront/home-landing-page/spec.md) | The shopper storefront | P1 |
-| 62 | [Order confirmation stating reference and true order state](specs/consumer-storefront/order-confirmation-page/spec.md) | The shopper storefront | P1 |
-| 63 | [Product detail page showing the buyer's effective price](specs/consumer-storefront/product-detail-page/spec.md) | The shopper storefront | P1 |
-| 64 | [Category listing with request-derived filter and page state](specs/consumer-storefront/product-listing-page/spec.md) | The shopper storefront | P1 |
-| 65 | [Search results with exact part-number resolution](specs/consumer-storefront/search-results-page/spec.md) | The shopper storefront | P2 |
-| 66 | [Account request held until the seller activates it](specs/consumer-storefront/account-registration-request/spec.md) | The shopper storefront | P1 |
-| 67 | [Buyer sign-in with password or federated identity](specs/consumer-storefront/account-sign-in/spec.md) | The shopper storefront | P1 |
-| 68 | [Address book with a default delivery location](specs/consumer-storefront/address-book/spec.md) | The shopper storefront | P1 |
-| 69 | [Order history scoped to what the buyer may see](specs/consumer-storefront/order-history/spec.md) | The shopper storefront | P1 |
-| 70 | [Session-scoped account dashboard with explicit empty states](specs/consumer-storefront/account-dashboard/spec.md) | The shopper storefront | P2 |
-| 71 | [Saved payment methods and account payment terms](specs/consumer-storefront/payment-methods/spec.md) | The shopper storefront | P2 |
-| 72 | [Saved and requisition lists with bulk add to cart](specs/consumer-storefront/saved-lists/spec.md) | The shopper storefront | P2 |
-| 73 | [Contact page that confirms only enquiries support has accepted](specs/consumer-storefront/contact-us/spec.md) | The shopper storefront | P1 |
-| 74 | [Policy pages stating the effective date of the text shown](specs/consumer-storefront/policy-pages/spec.md) | The shopper storefront | P1 |
-| 75 | [About page assembled entirely from published CMS content](specs/consumer-storefront/about-us/spec.md) | The shopper storefront | P2 |
-| 76 | [FAQ answers readable and indexable without being expanded](specs/consumer-storefront/faq/spec.md) | The shopper storefront | P2 |
-| 77 | [Articles addressable and indexable independently of the listing](specs/consumer-storefront/blog-resources/spec.md) | The shopper storefront | P3 |
-| 78 | [Error pages that name the failure and route the buyer back](specs/consumer-storefront/error-pages/spec.md) | The shopper storefront | P1 |
-| 79 | [Password reset gated on a valid, unexpired reset token](specs/consumer-storefront/password-reset/spec.md) | The shopper storefront | P1 |
-| 80 | [Email verification by token with a recoverable resend path](specs/consumer-storefront/email-verification/spec.md) | The shopper storefront | P2 |
-| 81 | [Out-of-stock substitutions at picking time](specs/consumer-storefront/out-of-stock-substitutions/spec.md) | The shopper storefront | P1 |
-| 82 | [Prices for goods sold by weight or measure](specs/consumer-storefront/weight-based-pricing/spec.md) | The shopper storefront | P1 |
-| 83 | [Delivery slot selection with finite capacity](specs/consumer-storefront/delivery-slot-booking/spec.md) | The shopper storefront | P1 |
+| 15 | [Free-text order description becomes a cart](specs/seller-portal/free-text-order-description-becomes-a-cart/spec.md) | The seller portal | P2 |
+| 16 | [Order input becomes a named shopping list](specs/seller-portal/order-input-becomes-a-named-shopping-list/spec.md) | The seller portal | P2 |
+| 17 | [Post-purchase order management](specs/seller-portal/post-purchase-order-management/spec.md) | The seller portal | P2 |
+| 18 | [Switching region or language](specs/seller-portal/switching-region-or-language/spec.md) | The seller portal | P2 |
+| 19 | [Subscriptions and recurring orders](specs/seller-portal/subscriptions-and-recurring-orders/spec.md) | The seller portal | P3 |
+| 20 | [Cart with engine-calculated totals after every change](specs/seller-portal/cart-page/spec.md) | The seller portal | P1 |
+| 21 | [Checkout re-reading totals after each shipping change](specs/seller-portal/checkout-page/spec.md) | The seller portal | P1 |
+| 22 | [Landing page with session-resolved buyer context](specs/seller-portal/home-landing-page/spec.md) | The seller portal | P1 |
+| 23 | [Order confirmation stating reference and true order state](specs/seller-portal/order-confirmation-page/spec.md) | The seller portal | P1 |
+| 24 | [Product detail page showing the buyer's effective price](specs/seller-portal/product-detail-page/spec.md) | The seller portal | P1 |
+| 25 | [Category listing with request-derived filter and page state](specs/seller-portal/product-listing-page/spec.md) | The seller portal | P1 |
+| 26 | [Search results with exact part-number resolution](specs/seller-portal/search-results-page/spec.md) | The seller portal | P2 |
+| 27 | [Account request held until the seller activates it](specs/seller-portal/account-registration-request/spec.md) | The seller portal | P1 |
+| 28 | [Buyer sign-in with password or federated identity](specs/seller-portal/account-sign-in/spec.md) | The seller portal | P1 |
+| 29 | [Address book with a default delivery location](specs/seller-portal/address-book/spec.md) | The seller portal | P1 |
+| 30 | [Order history scoped to what the buyer may see](specs/seller-portal/order-history/spec.md) | The seller portal | P1 |
+| 31 | [Company user and role administration](specs/seller-portal/user-and-role-management/spec.md) | The seller portal | P1 |
+| 32 | [Session-scoped account dashboard with explicit empty states](specs/seller-portal/account-dashboard/spec.md) | The seller portal | P2 |
+| 33 | [Order approval rules and the approver queue](specs/seller-portal/approval-workflows/spec.md) | The seller portal | P2 |
+| 34 | [Saved payment methods and account payment terms](specs/seller-portal/payment-methods/spec.md) | The seller portal | P2 |
+| 35 | [Quote acceptance at the negotiated price](specs/seller-portal/quote-negotiation/spec.md) | The seller portal | P2 |
+| 36 | [Saved and requisition lists with bulk add to cart](specs/seller-portal/saved-lists/spec.md) | The seller portal | P2 |
+| 37 | [Invoice history and outstanding balance on account](specs/seller-portal/invoice-and-billing-history/spec.md) | The seller portal | P1 |
+| 38 | [Quick order and bulk upload with per-line results](specs/seller-portal/quick-order-entry/spec.md) | The seller portal | P1 |
+| 39 | [Budget monitoring against committed order spend](specs/seller-portal/budget-and-spending-limits/spec.md) | The seller portal | P2 |
+| 40 | [Company profile with permission-gated editing](specs/seller-portal/company-profile/spec.md) | The seller portal | P2 |
+| 41 | [Contract pricing shown as the cart will price it](specs/seller-portal/contract-pricing/spec.md) | The seller portal | P2 |
+| 42 | [Cost center codes assignable to a purchase](specs/seller-portal/cost-center-management/spec.md) | The seller portal | P3 |
+| 43 | [Contact page that confirms only enquiries support has accepted](specs/seller-portal/contact-us/spec.md) | The seller portal | P1 |
+| 44 | [Policy pages stating the effective date of the text shown](specs/seller-portal/policy-pages/spec.md) | The seller portal | P1 |
+| 45 | [About page assembled entirely from published CMS content](specs/seller-portal/about-us/spec.md) | The seller portal | P2 |
+| 46 | [FAQ answers readable and indexable without being expanded](specs/seller-portal/faq/spec.md) | The seller portal | P2 |
+| 47 | [Articles addressable and indexable independently of the listing](specs/seller-portal/blog-resources/spec.md) | The seller portal | P3 |
+| 48 | [Error pages that name the failure and route the buyer back](specs/seller-portal/error-pages/spec.md) | The seller portal | P1 |
+| 49 | [Password reset gated on a valid, unexpired reset token](specs/seller-portal/password-reset/spec.md) | The seller portal | P1 |
+| 50 | [Email verification by token with a recoverable resend path](specs/seller-portal/email-verification/spec.md) | The seller portal | P2 |
+| 51 | [Prices for goods sold by weight or measure](specs/seller-portal/weight-based-pricing/spec.md) | The seller portal | P1 |
+| 52 | [Delivery slot selection with finite capacity](specs/seller-portal/delivery-slot-booking/spec.md) | The seller portal | P1 |
+| 53 | [Authentication and identity](specs/consumer-storefront/authentication-and-identity/spec.md) | The shopper storefront | P1 |
+| 54 | [Cart management](specs/consumer-storefront/cart-management/spec.md) | The shopper storefront | P1 |
+| 55 | [Checkout](specs/consumer-storefront/checkout/spec.md) | The shopper storefront | P1 |
+| 56 | [Discovery and browse](specs/consumer-storefront/discovery-and-browse/spec.md) | The shopper storefront | P1 |
+| 57 | [Account and self-service](specs/consumer-storefront/account-and-self-service/spec.md) | The shopper storefront | P2 |
+| 58 | [Post-purchase order management](specs/consumer-storefront/post-purchase-order-management/spec.md) | The shopper storefront | P2 |
+| 59 | [Switching region or language](specs/consumer-storefront/switching-region-or-language/spec.md) | The shopper storefront | P2 |
+| 60 | [Subscriptions and recurring orders](specs/consumer-storefront/subscriptions-and-recurring-orders/spec.md) | The shopper storefront | P3 |
+| 61 | [Cart with engine-calculated totals after every change](specs/consumer-storefront/cart-page/spec.md) | The shopper storefront | P1 |
+| 62 | [Checkout re-reading totals after each shipping change](specs/consumer-storefront/checkout-page/spec.md) | The shopper storefront | P1 |
+| 63 | [Landing page with session-resolved buyer context](specs/consumer-storefront/home-landing-page/spec.md) | The shopper storefront | P1 |
+| 64 | [Order confirmation stating reference and true order state](specs/consumer-storefront/order-confirmation-page/spec.md) | The shopper storefront | P1 |
+| 65 | [Product detail page showing the buyer's effective price](specs/consumer-storefront/product-detail-page/spec.md) | The shopper storefront | P1 |
+| 66 | [Category listing with request-derived filter and page state](specs/consumer-storefront/product-listing-page/spec.md) | The shopper storefront | P1 |
+| 67 | [Search results with exact part-number resolution](specs/consumer-storefront/search-results-page/spec.md) | The shopper storefront | P2 |
+| 68 | [Account request held until the seller activates it](specs/consumer-storefront/account-registration-request/spec.md) | The shopper storefront | P1 |
+| 69 | [Buyer sign-in with password or federated identity](specs/consumer-storefront/account-sign-in/spec.md) | The shopper storefront | P1 |
+| 70 | [Address book with a default delivery location](specs/consumer-storefront/address-book/spec.md) | The shopper storefront | P1 |
+| 71 | [Order history scoped to what the buyer may see](specs/consumer-storefront/order-history/spec.md) | The shopper storefront | P1 |
+| 72 | [Session-scoped account dashboard with explicit empty states](specs/consumer-storefront/account-dashboard/spec.md) | The shopper storefront | P2 |
+| 73 | [Saved payment methods and account payment terms](specs/consumer-storefront/payment-methods/spec.md) | The shopper storefront | P2 |
+| 74 | [Saved and requisition lists with bulk add to cart](specs/consumer-storefront/saved-lists/spec.md) | The shopper storefront | P2 |
+| 75 | [Contact page that confirms only enquiries support has accepted](specs/consumer-storefront/contact-us/spec.md) | The shopper storefront | P1 |
+| 76 | [Policy pages stating the effective date of the text shown](specs/consumer-storefront/policy-pages/spec.md) | The shopper storefront | P1 |
+| 77 | [About page assembled entirely from published CMS content](specs/consumer-storefront/about-us/spec.md) | The shopper storefront | P2 |
+| 78 | [FAQ answers readable and indexable without being expanded](specs/consumer-storefront/faq/spec.md) | The shopper storefront | P2 |
+| 79 | [Articles addressable and indexable independently of the listing](specs/consumer-storefront/blog-resources/spec.md) | The shopper storefront | P3 |
+| 80 | [Error pages that name the failure and route the buyer back](specs/consumer-storefront/error-pages/spec.md) | The shopper storefront | P1 |
+| 81 | [Password reset gated on a valid, unexpired reset token](specs/consumer-storefront/password-reset/spec.md) | The shopper storefront | P1 |
+| 82 | [Email verification by token with a recoverable resend path](specs/consumer-storefront/email-verification/spec.md) | The shopper storefront | P2 |
+| 83 | [Out-of-stock substitutions at picking time](specs/consumer-storefront/out-of-stock-substitutions/spec.md) | The shopper storefront | P1 |
+| 84 | [Prices for goods sold by weight or measure](specs/consumer-storefront/weight-based-pricing/spec.md) | The shopper storefront | P1 |
+| 85 | [Delivery slot selection with finite capacity](specs/consumer-storefront/delivery-slot-booking/spec.md) | The shopper storefront | P1 |
